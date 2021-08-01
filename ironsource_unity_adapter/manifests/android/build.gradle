@@ -1,0 +1,10 @@
+repositories {
+    mavenCentral()
+    maven {url 'https://android-sdk.is.com/'}
+
+}
+dependencies {
+    // Add UnityAds Network
+    implementation 'com.ironsource.adapters:unityadsadapter:4.3.11'
+    implementation 'com.unity3d.ads:unity-ads:3.7.2'
+}

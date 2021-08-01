@@ -17,7 +17,7 @@ dynamic_orientation = 0
 shared_state = 1
 
 [library]
-include_dirs = ironsource
+include_dirs = ironsource_unity_adapter
 
 [ios]
 bundle_identifier = com.defironsource.test

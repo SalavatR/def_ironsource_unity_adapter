@@ -5,6 +5,6 @@ repositories {
 }
 dependencies {
     // Add UnityAds Network
-    implementation 'com.ironsource.adapters:unityadsadapter:4.3.11'
-    implementation 'com.unity3d.ads:unity-ads:3.7.2'
+    implementation 'com.ironsource.adapters:unityadsadapter:4.3.13'
+    implementation 'com.unity3d.ads:unity-ads:3.7.5'
 }

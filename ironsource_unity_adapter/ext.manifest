@@ -7,4 +7,4 @@ platforms:
             linkFlags:  ["-ObjC"]
     android:
       context:
-        aaptExtraPackages: ['androidx.core', 'androidx.work', com.google.ads, 'com.google.android.gms', 'com.google.android.gms.ads', 'com.google.android.gms.common']
+        aaptExtraPackages: ['androidx.core', 'androidx.work', 'com.unity3d.ads', 'com.unity3d.services', 'com.ironsource.adapters.unityads']

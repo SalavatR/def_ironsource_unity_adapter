@@ -7,4 +7,4 @@ platforms:
             linkFlags:  ["-ObjC"]
     android:
       context:
-        aaptExtraPackages: ['androidx.core', 'androidx.work', 'com.unity3d.ads', 'com.unity3d.services', 'com.ironsource.adapters.unityads', 'com.unity3d.services.ads.api', 'com.unity3d.scar.adapter.common']
+        aaptExtraPackages: ['androidx.core', 'androidx.work', 'com.unity3d.ads', 'com.unity3d.services', 'com.ironsource.adapters.unityads', 'com.unity3d.services.ads.api', 'com.unity3d.scar.adapter.common', 'com.unity3d','com.unity3d.scar', 'com.unity3d.scar.adapter', 'com.unity3d.scar.adapter.common.IAdsErrorHandler']

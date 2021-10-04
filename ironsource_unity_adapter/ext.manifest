@@ -3,5 +3,5 @@ name: "IronsourceUnityAdapter"
 platforms:
   ios:
     context:
-        frameworks: ["AVFoundation", "CoreMedia", "UIKit"]
+        frameworks: ["AVFoundation", "CoreMedia", "UIKit", "IronSource"]
         weakFrameworks: ["AdSupport", "AVFAudio", "AppTrackingTransparency"]
